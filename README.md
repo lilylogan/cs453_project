@@ -1,4 +1,4 @@
-# CS 435 Project
+# CS 453 Project
 
 ## Contributors: Eliza Black, Kylie Griffiths, Lily Logan
 
