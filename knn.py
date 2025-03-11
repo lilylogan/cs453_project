@@ -25,7 +25,8 @@ from scipy.sparse import csr_matrix
     
 #     return songs_df
 
-songs_df = pd.read_csv("subset_data/train_songs.csv")
+# songs_df = pd.read_csv("subset_data/train_songs.csv")
+songs_df = pd.read_csv("cleaned_data/songs_cleaned.csv")
 
 
 # In[4]:
