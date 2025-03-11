@@ -17,7 +17,15 @@ from scipy.sparse import csr_matrix
 # In[3]:
 
 
-songs_df = pd.read_csv("cleaned_data/songs_cleaned.csv")
+# def train_or_test(test):
+#     if test:
+#         songs_df = pd.read_csv("subset_data/test_songs.csv")
+#     else:
+#         songs_df = pd.read_csv("subset_data/train_songs.csv")
+    
+#     return songs_df
+
+songs_df = pd.read_csv("subset_data/train_songs.csv")
 
 
 # In[4]:
