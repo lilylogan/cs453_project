@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ## Kylie's Code for Matrix Factorization
+# Matrix Factorization
+
+"""This python script exisits so that other ipynb files can access the information in mf.ipynb"""
 
 # In[4]:
 

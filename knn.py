@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+"""This python script exisits so that other ipynb files can access the information in knn.ipynb"""
+
 # In[2]:
 
 
